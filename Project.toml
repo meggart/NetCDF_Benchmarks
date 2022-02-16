@@ -1,0 +1,9 @@
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+Blosc = "a74b3585-a348-5f62-a45c-50e91977d574"
+DiskArrays = "3c3547ce-8d99-4f5e-a174-61eb10b00ae3"
+NCDatasets = "85f8d34a-cbdd-5861-8df4-14fed0d494ab"
+NetCDF = "30363a11-5582-574a-97bb-aa9a979735b9"
+ParallelMapReduce = "35c9ef8c-44cb-42a7-bccd-f3b9e73321fd"
+YAXArrays = "c21b50f5-aa40-41ea-b809-c0f5e47bfa5c"
+Zarr = "0a941bbe-ad1d-11e8-39d9-ab76183a1d99"
